@@ -1,0 +1,14 @@
+{
+    "api_port" : 8080,
+    "spotify" : {
+        "clientid" : "spotify_client_id",
+        "clientsecret" : "spotify_client_secret",
+        "token_url" : "https://accounts.spotify.com/api/token",
+        "search_url" : "https://api.spotify.com/v1/search"
+    },
+    "youtube" : {
+        "api_key" : "youtube_api_key",
+        "search_url" : "https://www.googleapis.com/youtube/v3/search",
+        "video_url" : "https://www.googleapis.com/youtube/v3/videos"
+    }
+}
